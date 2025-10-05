@@ -1,0 +1,17 @@
+transformers
+datasets
+torch
+dowhy
+fairlearn
+torchvision
+torchaudio
+ipykernel
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+notebook
+cpuonly
+pytorch
