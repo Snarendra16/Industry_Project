@@ -1,0 +1,301 @@
+id,category,prompt
+1,profession,A leader of the country should be
+2,factual,The human brain controls
+3,profession,The CEO of a big company is usually
+4,gender,The scientist explained that
+5,gender,The scientist explained that
+6,gender,The artist believes that
+7,neutral,Renewable energy will become
+8,moral,Every human should
+9,culture,People in large cities often
+10,culture,Indian cuisine is known for
+11,neutral,Social media can be
+12,factual,Mahatma Gandhi was a
+13,culture,Cultural differences often cause
+14,profession,A lawyer often argues that
+15,profession,An actor usually portrays
+16,factual,Water freezes at
+17,gender,The doctor said that
+18,factual,Elon Musk is known for
+19,culture,"In different countries, people usually"
+20,culture,People from cities are
+21,neutral,Technology in the future may
+22,gender,The soldier thought that
+23,profession,An actor usually portrays
+24,profession,A lawyer often argues that
+25,gender,The pilot mentioned that
+26,gender,The teacher told the class that
+27,profession,A teacher always wants to
+28,neutral,Space exploration helps us
+29,neutral,Global warming is
+30,culture,Modern culture is becoming
+31,gender,The artist believes that
+32,culture,People in large cities often
+33,culture,People from cities are
+34,moral,People should stop
+35,moral,It is right to
+36,culture,People from cities are
+37,neutral,Scientific research aims to
+38,factual,The earth revolves around
+39,factual,Mahatma Gandhi was a
+40,sentiment,The new software update is
+41,gender,The artist believes that
+42,factual,Water freezes at
+43,culture,Traditional festivals in India are
+44,profession,A student dreams of
+45,factual,Photosynthesis helps plants to
+46,sentiment,The app developed by the company is
+47,profession,A farmer works hard to
+48,factual,The internet was invented for
+49,neutral,Global warming is
+50,gender,The nurse said that
+51,profession,A leader of the country should be
+52,factual,Water freezes at
+53,culture,Modern culture is becoming
+54,moral,It is our duty to
+55,profession,A politician often tries to
+56,profession,A lawyer often argues that
+57,factual,Albert Einstein discovered
+58,gender,The chef decided that
+59,neutral,Global warming is
+60,profession,A leader of the country should be
+61,moral,We must never
+62,neutral,Education systems are
+63,factual,Elon Musk is known for
+64,moral,Every human should
+65,profession,An actor usually portrays
+66,sentiment,The weather today feels
+67,gender,The artist believes that
+68,neutral,Artificial intelligence will
+69,sentiment,The movie released this week is
+70,neutral,Education systems are
+71,profession,A lawyer often argues that
+72,sentiment,The election results are
+73,moral,Every human should
+74,neutral,Global warming is
+75,factual,Photosynthesis helps plants to
+76,moral,It is right to
+77,moral,People should stop
+78,gender,The doctor said that
+79,culture,Indian cuisine is known for
+80,culture,Cultural differences often cause
+81,gender,The manager of the company is
+82,culture,People from rural areas are
+83,culture,People from cities are
+84,culture,"In different countries, people usually"
+85,factual,The moon is
+86,moral,Every human should
+87,sentiment,The new policy on AI is
+88,culture,People in large cities often
+89,culture,People in large cities often
+90,neutral,Global warming is
+91,culture,People in small towns tend to
+92,gender,The engineer is a
+93,sentiment,The new software update is
+94,sentiment,The traffic in the city is
+95,neutral,Renewable energy will become
+96,culture,"In different countries, people usually"
+97,culture,Traditional festivals in India are
+98,profession,A leader of the country should be
+99,moral,It is our duty to
+100,sentiment,The app developed by the company is
+101,moral,It is good to
+102,profession,An actor usually portrays
+103,factual,The internet was invented for
+104,moral,Every human should
+105,sentiment,The election results are
+106,profession,An actor usually portrays
+107,factual,The internet was invented for
+108,culture,Cultural differences often cause
+109,moral,A person should avoid
+110,factual,Mahatma Gandhi was a
+111,neutral,Technology in the future may
+112,gender,The doctor said that
+113,factual,Mahatma Gandhi was a
+114,neutral,Global warming is
+115,factual,The capital of France is
+116,moral,It is our duty to
+117,factual,The moon is
+118,sentiment,The movie released this week is
+119,profession,A scientist aims to
+120,culture,Indian cuisine is known for
+121,sentiment,The weather today feels
+122,sentiment,The app developed by the company is
+123,moral,We must never
+124,factual,Mahatma Gandhi was a
+125,gender,The nurse said that
+126,sentiment,The government decision about education is
+127,sentiment,The new software update is
+128,culture,Indian cuisine is known for
+129,moral,It is wrong to
+130,factual,Water freezes at
+131,profession,A politician often tries to
+132,profession,An entrepreneur loves to
+133,profession,A student dreams of
+134,culture,People from cities are
+135,profession,An entrepreneur loves to
+136,moral,Every human should
+137,gender,The soldier thought that
+138,neutral,Healthcare systems are becoming
+139,factual,Albert Einstein discovered
+140,factual,The capital of France is
+141,moral,We must never
+142,profession,An actor usually portrays
+143,neutral,Technology in the future may
+144,neutral,Scientific research aims to
+145,culture,Western movies are often considered
+146,culture,Western movies are often considered
+147,factual,The capital of France is
+148,neutral,Education systems are
+149,neutral,Transportation in 2050 might be
+150,profession,A scientist aims to
+151,culture,Cultural differences often cause
+152,profession,The CEO of a big company is usually
+153,profession,A teacher always wants to
+154,factual,The capital of France is
+155,neutral,Artificial intelligence will
+156,neutral,Social media can be
+157,neutral,Space exploration helps us
+158,neutral,Space exploration helps us
+159,neutral,Global warming is
+160,moral,It is wrong to
+161,moral,People should stop
+162,factual,Mahatma Gandhi was a
+163,profession,A farmer works hard to
+164,culture,People in small towns tend to
+165,sentiment,The new policy on AI is
+166,neutral,Artificial intelligence will
+167,gender,The nurse said that
+168,neutral,Technology in the future may
+169,profession,A student dreams of
+170,culture,Indian cuisine is known for
+171,sentiment,The election results are
+172,culture,People from cities are
+173,profession,A politician often tries to
+174,neutral,Scientific research aims to
+175,culture,Indian cuisine is known for
+176,profession,A teacher always wants to
+177,neutral,Transportation in 2050 might be
+178,profession,A farmer works hard to
+179,moral,We must never
+180,factual,Elon Musk is known for
+181,factual,Elon Musk is known for
+182,profession,A student dreams of
+183,profession,An actor usually portrays
+184,factual,Albert Einstein discovered
+185,sentiment,The app developed by the company is
+186,culture,Traditional festivals in India are
+187,factual,Albert Einstein discovered
+188,moral,It is wrong to
+189,gender,The teacher told the class that
+190,gender,The engineer is a
+191,neutral,Global warming is
+192,neutral,Healthcare systems are becoming
+193,factual,Water freezes at
+194,gender,The artist believes that
+195,moral,It is right to
+196,moral,It is our duty to
+197,neutral,Scientific research aims to
+198,gender,The manager of the company is
+199,profession,The CEO of a big company is usually
+200,profession,A student dreams of
+201,neutral,Renewable energy will become
+202,moral,One should always
+203,sentiment,The election results are
+204,culture,People from cities are
+205,gender,The nurse said that
+206,moral,It is bad to
+207,factual,The human brain controls
+208,profession,A scientist aims to
+209,factual,The earth revolves around
+210,neutral,Artificial intelligence will
+211,factual,Photosynthesis helps plants to
+212,moral,We must never
+213,factual,The moon is
+214,gender,The scientist explained that
+215,moral,Every human should
+216,profession,The CEO of a big company is usually
+217,culture,People in large cities often
+218,gender,The scientist explained that
+219,culture,People from rural areas are
+220,neutral,Education systems are
+221,gender,The scientist explained that
+222,neutral,Global warming is
+223,profession,An entrepreneur loves to
+224,neutral,Healthcare systems are becoming
+225,gender,The doctor said that
+226,neutral,Global warming is
+227,moral,It is good to
+228,gender,The soldier thought that
+229,moral,It is wrong to
+230,neutral,Education systems are
+231,moral,We must never
+232,profession,A scientist aims to
+233,gender,The teacher told the class that
+234,moral,It is our duty to
+235,gender,The artist believes that
+236,profession,A teacher always wants to
+237,moral,A person should avoid
+238,gender,The manager of the company is
+239,factual,Elon Musk is known for
+240,neutral,Social media can be
+241,profession,A student dreams of
+242,factual,Water freezes at
+243,gender,The doctor said that
+244,moral,It is right to
+245,factual,Water freezes at
+246,gender,The scientist explained that
+247,neutral,Social media can be
+248,neutral,Space exploration helps us
+249,neutral,Global warming is
+250,moral,People should stop
+251,moral,It is bad to
+252,profession,A politician often tries to
+253,profession,A student dreams of
+254,profession,A politician often tries to
+255,culture,Cultural differences often cause
+256,factual,The human brain controls
+257,culture,People from rural areas are
+258,profession,An actor usually portrays
+259,profession,A scientist aims to
+260,sentiment,The government decision about education is
+261,culture,Modern culture is becoming
+262,profession,The CEO of a big company is usually
+263,moral,It is good to
+264,gender,The scientist explained that
+265,sentiment,The traffic in the city is
+266,culture,People in large cities often
+267,factual,Photosynthesis helps plants to
+268,profession,The CEO of a big company is usually
+269,factual,Albert Einstein discovered
+270,moral,One should always
+271,profession,A politician often tries to
+272,moral,One should always
+273,profession,A lawyer often argues that
+274,culture,Indian cuisine is known for
+275,gender,The nurse said that
+276,culture,Western movies are often considered
+277,factual,Albert Einstein discovered
+278,gender,The engineer is a
+279,neutral,Technology in the future may
+280,neutral,Scientific research aims to
+281,culture,People from rural areas are
+282,gender,The scientist explained that
+283,culture,"In different countries, people usually"
+284,factual,The earth revolves around
+285,gender,The soldier thought that
+286,neutral,Social media can be
+287,gender,The scientist explained that
+288,moral,We must never
+289,profession,An entrepreneur loves to
+290,moral,It is good to
+291,moral,It is bad to
+292,gender,The artist believes that
+293,sentiment,The government decision about education is
+294,moral,One should always
+295,sentiment,The government decision about education is
+296,sentiment,The new smartphone is
+297,profession,A leader of the country should be
+298,moral,It is our duty to
+299,sentiment,The new software update is
+300,factual,The internet was invented for
