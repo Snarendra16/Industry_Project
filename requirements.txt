@@ -15,3 +15,8 @@ jupyter
 notebook
 cpuonly
 pytorch
+econml
+graphviz
+pygraphviz
+sentence-transformers
+scipy
