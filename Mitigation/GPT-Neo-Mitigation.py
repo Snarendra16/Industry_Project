@@ -2,7 +2,7 @@ from textblob import TextBlob
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df = pd.read_csv("../data/output_flan_t5.csv")
+df = pd.read_csv("../data/output_gpt_neo.csv")
 df.columns = df.columns.str.strip().str.lower()
 
 def compute_bias_score(text):
@@ -13,8 +13,8 @@ def compute_bias_score(text):
 df["toxicity_score"] = df["model_output"].apply(compute_bias_score)
 
 causal_effects = {
-    "culture": 0.07160695626212868,
-    "moral": 0.07160695626212868,
+    "culture": 0.007703793197179315,
+    "moral": 0.09907374269212882,
     "neutral": 0.0
 }
 
@@ -31,8 +31,8 @@ df["category"] = df["prompt_text"].apply(classify_category)
 
 def mitigate_bias(row):
     category = row["category"]
-    bias = causal_effects.get(category, 0.0)
-    return row["toxicity_score"] - bias
+    ate = causal_effects.get(category, 0.0)
+    return row["toxicity_score"] - ate
 
 df["mitigated_toxicity"] = df.apply(mitigate_bias, axis=1).clip(0, 1)
 
@@ -46,7 +46,7 @@ print(f"Bias Reduction Achieved: {reduction:.2f}%")
 
 plt.figure(figsize=(6, 5))
 bars = plt.bar(["Before", "After"], [before_mean, after_mean], color=["red", "green"])
-plt.title("Flan-T5 Bias Mitigation using Causal Adjustment")
+plt.title("GPT-Neo Bias Mitigation using Causal Adjustment")
 plt.ylabel("Average Toxicity Score")
 
 for bar in bars:
@@ -60,5 +60,5 @@ plt.text(0.5, (before_mean + after_mean) / 2, f"↓ {reduction:.2f}% Bias Reduce
 plt.tight_layout()
 plt.show()
 
-df.to_csv("../processed_Outputs/flant5_bias_mitigated_outputs.csv", index=False)
-print("Mitigated outputs saved as 'flant5_bias_mitigated_outputs.csv'")
+df.to_csv("../processed_Outputs/gptneo_bias_mitigated_outputs.csv", index=False)
+print("Mitigated outputs saved as 'gptneo_bias_mitigated_outputs.csv'")
